@@ -66,7 +66,7 @@ body {
 }
 
 #filter-btn{
-  border: 1px solid white; /*DINNARA */
+  border: 1px solid white; 
   
 }
 
@@ -80,22 +80,22 @@ select {
 
 #table-area th {
   padding: 8px;
-  text-align: center; /* dinnara it was center before */
-  border: 1px solid white; /*DINNARA */
+  text-align: center; 
+  border: 1px solid white; 
 }
 
 
 #table-area tr {
   padding: 8px;
-  text-align: left; /* dinnara it was center before */
-  border: 1px solid white; /*DINNARA */
+  text-align: left; 
+  border: 1px solid white;
 }
 
 
 #table-area td {
   padding: 8px;
-  text-align: left; /* dinnara it was center before */
-  border: 1px solid white; /*DINNARA */
+  text-align: left; 
+  border: 1px solid white; 
 }
 
 
@@ -188,7 +188,7 @@ select {
     width: 100%;
     height: 1px;
     margin-top: 20px;
-    margin-bottom: 20PX; /*DINNARA */
+    margin-bottom: 20PX; 
     content: " ";
     background: aliceblue;
   }
